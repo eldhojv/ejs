@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **Ailurophiles/Cynophiles**
 
+- <space><space> [![Linkedin Badge](https://img.shields.io/badge/-eldhojv.joy-blue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldhojv/ "Connect on Linkedin") <space><space> [![Mail Badge](https://img.shields.io/badge/-eldhojv.joy-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:eldhojv.joy@gmail.com " Gmail")
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/eldhojv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eldhojv" height="30" width="40" /></a>
