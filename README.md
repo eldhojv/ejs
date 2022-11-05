@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eldho Joy</h1>
 <h3 align="center">A passionate back-end developer from Texas. Currently I'm a graduate student at UTA pursuing MS in Computer Science specializing in Intelligent systems and Databases. I did my Software Development Engineer Internship at Tesla in their core infrastructure team. I have 3+ years of experience in Software Engineering. My primary focus is on back-end development using Golang and Python along with that I have interest in Cloud computing, Machine Learning and Data Science.</h3>
 
-- 🔭 I’m currently working on **something cool**
+- 🔭 I’m currently working as SDE Intern @ Tesla in the core Infrastructure team building **something cool**
 
 - 🌱 I’m currently learning **Computer Vision and Neural Networks**
 
